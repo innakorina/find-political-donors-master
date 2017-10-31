@@ -7,7 +7,7 @@
 6. From the last iteration use final data frame to calculate the median, number of occurrences and sum for each pair ID-date and save results into the "medianvals_by_date.txt".
 
 # Libraries
-[Pandas](http://pandas.pydata.org/)
+[Pandas](http://pandas.pydata.org/)   
 Sys
 
 # Tools
